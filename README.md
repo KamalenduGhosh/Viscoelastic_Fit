@@ -32,6 +32,17 @@ http://pamies.cee.illinois.edu/Publications_files/JElast2021.pdf
   publisher={Elsevier}
 }
 
+@article{ghosh2021two,
+  title={On the two-potential constitutive modeling of dielectric elastomers},
+  author={Ghosh, Kamalendu and Lopez-Pamies, Oscar},
+  journal={Meccanica},
+  volume={56},
+  number={6},
+  pages={1505--1521},
+  year={2021},
+  publisher={Springer}
+}
+
 @article{kumar2016two,
   title={On the two-potential constitutive modeling of rubber viscoelastic materials},
   author={Kumar, Aditya and Lopez-Pamies, Oscar},
