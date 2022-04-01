@@ -2,9 +2,6 @@ clc; clear;
 global lam lamdot Fmax 
 lamdot = 0.05;
 Fmax = 3;
-Fmin = (1/(1.0*Fmax));
-type = 0;
-% props;
 
 formatSpec = ['%f,%f'];
 fname = strcat('LoadingUnloading_F',num2str(Fmax),'_l',num2str(lamdot),'.txt');
