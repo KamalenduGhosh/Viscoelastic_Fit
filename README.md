@@ -11,7 +11,7 @@ http://pamies.cee.illinois.edu/Publications_files/JElast2021.pdf
 
 
 
-# Citation (bib)
+# Citations (bib)
 
 @article{shrimali2021nonlinear,
     title={The nonlinear viscoelastic response of suspensions of vacuous bubbles in rubber: I—Gaussian rubber with constant viscosity},
