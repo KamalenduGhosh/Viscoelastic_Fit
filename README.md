@@ -2,7 +2,7 @@
 
 MATLAB Code to find the viscoelastic material parameters of Non Gaussian Rubber with deformation enhanced shear thinning. Check out the publication describing the model: http://pamies.cee.illinois.edu/Publications_files/CRM_2016.pdf
 
-A generalization of the model to account for time-dependent dielectric response is recorded here: https://pamies.cee.illinois.edu/Publications_files/MECC2020.pdf
+A generalization of the model to account for time-dependent coupled electro-mechanical response for dielectric elastomers is recorded here: https://pamies.cee.illinois.edu/Publications_files/MECC2020.pdf
 
 
 
